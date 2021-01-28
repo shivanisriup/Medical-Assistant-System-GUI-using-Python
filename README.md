@@ -1,0 +1,2 @@
+# Medical-Assistant-System-GUI-using-Python
+In this GUI project there is login page for those who had registered otherwise it redirect you to registeration page. In this I had scrapped site medicalsiteonline.com to access all medicines .The person which is search for any medicine in that then it serach and send the medicine with all prescription details. If user if not onspot willing to purchase it then it can also mail that details of product to their gmail id which used had entered during registeration.
